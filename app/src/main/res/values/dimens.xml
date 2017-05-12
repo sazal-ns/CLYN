@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017. All right reserved to Noor Nabiul Alam Siddiqui
+  ~ mailto: siddiqui.sazal@gmail.com
+  -->
+
+<resources>
+    <dimen name="default_padding">10dip</dimen>
+</resources>
